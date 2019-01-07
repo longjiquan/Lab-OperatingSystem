@@ -1,0 +1,195 @@
+--wxr-xr-x 1 longj longj 19408 2019-01-07 22:58 walk_bfs.out  4
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:54 lab3  4
+--w-r--r-- 1 longj longj 119 2019-01-07 22:59 file_info.txt  4
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:49 lab2  4
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:45 lab1  4
+--w-r--r-- 1 longj longj 189 2018-12-07 13:02 README.md  4
+d-wxr-xr-x 8 longj longj 4096 2019-01-07 22:58 .git  4
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:15 doc  4
+--w-r--r-- 1 longj longj 35149 2018-12-07 13:02 LICENSE  4
+--w-r--r-- 1 longj longj 6 2019-01-07 22:44 .gitignore  4
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:57 lab4  4
+directory /home/longj/Lab-OperatingSystem has 11 file in total
+
+--wxr-xr-x 1 longj longj 13016 2019-01-07 22:54 readbuf.out  8
+--wxr-xr-x 1 longj longj 1394 2018-12-26 16:09 writebuf.c  8
+--wxr-xr-x 1 longj longj 1135 2018-12-26 15:15 copy_file_by_shared_memory.c  8
+--wxr-xr-x 1 longj longj 13024 2019-01-07 22:54 writebuf.out  8
+--wxr-xr-x 1 longj longj 8736 2019-01-07 22:53 copy_file_by_shared_memory.out  8
+--wxr-xr-x 1 longj longj 1409 2018-12-26 15:22 readbuf.c  8
+directory /home/longj/Lab-OperatingSystem/lab3 has 6 file in total
+
+--w-r--r-- 1 longj longj 1438 2018-12-26 22:42 thread_synchronization.c  8
+--w-r--r-- 1 longj longj 4041 2018-12-26 22:37 result.txt  8
+--wxr-xr-x 1 longj longj 13032 2019-01-07 22:49 thread_synchronization.out  8
+directory /home/longj/Lab-OperatingSystem/lab2 has 3 file in total
+
+--w-r--r-- 1 longj longj 2109 2019-01-07 22:45 process_communication_by_signal.c  8
+--wxr-xr-x 1 longj longj 13056 2019-01-07 22:45 process_communication_by_signal.out  8
+directory /home/longj/Lab-OperatingSystem/lab1 has 2 file in total
+
+--w-r--r-- 1 longj longj 1030 2019-01-07 22:58 index  8
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 info  8
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 branches  8
+--w-r--r-- 1 longj longj 29 2019-01-07 22:58 COMMIT_EDITMSG  8
+d-wxr-xr-x 5 longj longj 4096 2018-12-07 13:02 refs  8
+--w-r--r-- 1 longj longj 23 2018-12-07 13:02 HEAD  8
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 hooks  8
+d-wxr-xr-x 3 longj longj 4096 2018-12-07 13:02 logs  8
+--w-r--r-- 1 longj longj 114 2018-12-07 13:02 packed-refs  8
+--w-r--r-- 1 longj longj 276 2018-12-07 13:02 config  8
+--w-r--r-- 1 longj longj 73 2018-12-07 13:02 description  8
+d-wxr-xr-x 22 longj longj 4096 2019-01-07 22:58 objects  8
+directory /home/longj/Lab-OperatingSystem/.git has 12 file in total
+
+--w-rw-r-- 1 longj longj 412672 2018-12-07 13:15 exp2.ppt  8
+--w-rw-r-- 1 longj longj 381440 2018-12-07 13:15 exp3.ppt  8
+--w-rw-r-- 1 longj longj 412160 2018-12-07 13:15 exp4.ppt  8
+--w-rw-r-- 1 longj longj 585216 2018-12-07 13:14 exp1.ppt  8
+directory /home/longj/Lab-OperatingSystem/doc has 4 file in total
+
+--wxr-xr-x 1 longj longj 19408 2019-01-07 22:56 walk_bfs.out  8
+--w-r--r-- 1 longj longj 3786 2019-01-03 01:02 walk_bfs.cpp  8
+--wxr-xr-x 1 longj longj 18736 2019-01-07 22:57 walk_recursive.out  8
+--w-r--r-- 1 longj longj 2528 2019-01-03 12:55 walk_recursive.cpp  8
+directory /home/longj/Lab-OperatingSystem/lab4 has 4 file in total
+
+--w-r--r-- 1 longj longj 240 2018-12-07 13:02 exclude  12
+directory /home/longj/Lab-OperatingSystem/.git/info has 1 file in total
+
+directory /home/longj/Lab-OperatingSystem/.git/branches has 0 file in total
+
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 tags  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:58 heads  12
+d-wxr-xr-x 3 longj longj 4096 2018-12-07 13:02 remotes  12
+directory /home/longj/Lab-OperatingSystem/.git/refs has 3 file in total
+
+--wxr-xr-x 1 longj longj 3327 2018-12-07 13:02 fsmonitor-watchman.sample  12
+--wxr-xr-x 1 longj longj 1642 2018-12-07 13:02 pre-commit.sample  12
+--wxr-xr-x 1 longj longj 544 2018-12-07 13:02 pre-receive.sample  12
+--wxr-xr-x 1 longj longj 3610 2018-12-07 13:02 update.sample  12
+--wxr-xr-x 1 longj longj 189 2018-12-07 13:02 post-update.sample  12
+--wxr-xr-x 1 longj longj 478 2018-12-07 13:02 applypatch-msg.sample  12
+--wxr-xr-x 1 longj longj 424 2018-12-07 13:02 pre-applypatch.sample  12
+--wxr-xr-x 1 longj longj 4898 2018-12-07 13:02 pre-rebase.sample  12
+--wxr-xr-x 1 longj longj 896 2018-12-07 13:02 commit-msg.sample  12
+--wxr-xr-x 1 longj longj 1348 2018-12-07 13:02 pre-push.sample  12
+--wxr-xr-x 1 longj longj 1492 2018-12-07 13:02 prepare-commit-msg.sample  12
+directory /home/longj/Lab-OperatingSystem/.git/hooks has 11 file in total
+
+d-wxr-xr-x 4 longj longj 4096 2018-12-07 13:02 refs  12
+--w-r--r-- 1 longj longj 1083 2019-01-07 22:58 HEAD  12
+directory /home/longj/Lab-OperatingSystem/.git/logs has 2 file in total
+
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:54 1b  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:52 70  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:50 f4  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:55 d2  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:58 88  12
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 info  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:58 4c  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:57 6c  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:52 40  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:57 5b  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:58 c0  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:54 48  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:55 32  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:51 42  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:51 6f  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:51 89  12
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 pack  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:50 4e  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:50 f6  12
+d-wxr-xr-x 2 longj longj 4096 2019-01-07 22:50 4d  12
+directory /home/longj/Lab-OperatingSystem/.git/objects has 20 file in total
+
+directory /home/longj/Lab-OperatingSystem/.git/refs/tags has 0 file in total
+
+--w-r--r-- 1 longj longj 41 2019-01-07 22:58 master  16
+directory /home/longj/Lab-OperatingSystem/.git/refs/heads has 1 file in total
+
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 origin  16
+directory /home/longj/Lab-OperatingSystem/.git/refs/remotes has 1 file in total
+
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 heads  16
+d-wxr-xr-x 3 longj longj 4096 2018-12-07 13:02 remotes  16
+directory /home/longj/Lab-OperatingSystem/.git/logs/refs has 2 file in total
+
+----r--r-- 1 longj longj 558 2019-01-07 22:54 3c9b256ecf96bd83e32548f251105ccafa1684  16
+----r--r-- 1 longj longj 69 2019-01-07 22:52 9eb371da0f3fdc4dec3bee006c96a8233f9e59  16
+----r--r-- 1 longj longj 555 2019-01-07 22:54 a6507f6cdfa0ccb86fcfade4796b4d03ee01df  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/1b has 3 file in total
+
+----r--r-- 1 longj longj 176 2019-01-07 22:52 6c5eaf1f6df9c027fa81735fe7521e60e78e77  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/70 has 1 file in total
+
+----r--r-- 1 longj longj 21 2019-01-07 22:50 7cb2045f130d56b12a40b1ab207bd492281c17  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/f4 has 1 file in total
+
+----r--r-- 1 longj longj 135 2019-01-07 22:55 274ac655ddc6df0fc27eac676f8618f687b207  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/d2 has 1 file in total
+
+----r--r-- 1 longj longj 91 2019-01-07 22:58 d5f560b7e2d6e1d18be8b2bac3edd968344a14  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/88 has 1 file in total
+
+directory /home/longj/Lab-OperatingSystem/.git/objects/info has 0 file in total
+
+----r--r-- 1 longj longj 199 2019-01-07 22:58 14df7f543f8677921f74a9ec57362f79aec67b  16
+----r--r-- 1 longj longj 207 2019-01-07 22:50 2b469f557ef6b6f6131e8f6935c6f86a640bc5  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/4c has 2 file in total
+
+----r--r-- 1 longj longj 939 2019-01-07 22:57 245d0a2230d6b8e19e3bb4cbbde6156f15e4ff  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/6c has 1 file in total
+
+----r--r-- 1 longj longj 207 2019-01-07 22:52 faed3dcdee6ecc2cb42fc17aa9000a8a11388a  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/40 has 1 file in total
+
+----r--r-- 1 longj longj 1242 2019-01-07 22:57 ccc1e4771e2e147a98aadc59e39d68d0ce3b17  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/5b has 1 file in total
+
+----r--r-- 1 longj longj 201 2019-01-07 22:55 d8a076c6daed3fb06c2297e11d248bb3df7af0  16
+----r--r-- 1 longj longj 226 2019-01-07 22:58 c5b43a5b62068961ff407b2f2afb286cb1717b  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/c0 has 2 file in total
+
+----r--r-- 1 longj longj 513 2019-01-07 22:54 be8d442f74692fc697f6ac0ded6eac5e92a3c6  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/48 has 1 file in total
+
+----r--r-- 1 longj longj 207 2019-01-07 22:55 362dec511d6f81bdbbb55871ef0402c8ec5976  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/32 has 1 file in total
+
+----r--r-- 1 longj longj 203 2019-01-07 22:51 555947f1fd39fbbac35a6c18c6526641ca802b  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/42 has 1 file in total
+
+----r--r-- 1 longj longj 151 2019-01-07 22:51 4a39032604513fc8f5c796b83d92d928fb11fa  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/6f has 1 file in total
+
+----r--r-- 1 longj longj 689 2019-01-07 22:51 d64e1f957e781d43e066459d7286d3d766c433  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/89 has 1 file in total
+
+----r--r-- 1 longj longj 1268 2018-12-07 13:02 pack-d9d7f55c2a0153e7553804e5d9d56150c4af71ea.idx  16
+----r--r-- 1 longj longj 13607 2018-12-07 13:02 pack-d9d7f55c2a0153e7553804e5d9d56150c4af71ea.pack  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/pack has 2 file in total
+
+----r--r-- 1 longj longj 117 2019-01-07 22:50 7f0d557ce8aca928e91afe733bf83ebd17c100  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/4e has 1 file in total
+
+----r--r-- 1 longj longj 977 2019-01-07 22:50 f6acc812cefc5e81dea69a1826a7bbe39e5084  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/f6 has 1 file in total
+
+----r--r-- 1 longj longj 78 2019-01-07 22:50 18858f91c71fcf4d7bbc75f067165f9e98cef6  16
+directory /home/longj/Lab-OperatingSystem/.git/objects/4d has 1 file in total
+
+--w-r--r-- 1 longj longj 32 2018-12-07 13:02 HEAD  20
+directory /home/longj/Lab-OperatingSystem/.git/refs/remotes/origin has 1 file in total
+
+--w-r--r-- 1 longj longj 1083 2019-01-07 22:58 master  20
+directory /home/longj/Lab-OperatingSystem/.git/logs/refs/heads has 1 file in total
+
+d-wxr-xr-x 2 longj longj 4096 2018-12-07 13:02 origin  20
+directory /home/longj/Lab-OperatingSystem/.git/logs/refs/remotes has 1 file in total
+
+--w-r--r-- 1 longj longj 201 2018-12-07 13:02 HEAD  24
+directory /home/longj/Lab-OperatingSystem/.git/logs/refs/remotes/origin has 1 file in total
+
+
+file num total : 111
